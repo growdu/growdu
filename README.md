@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on user protocol stack, distribution system.
 - 📫 How to reach me growdu@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=growdu)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=growdu&show_icons=true&theme=radical)
 
 <!---
