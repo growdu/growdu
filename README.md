@@ -5,7 +5,7 @@
 - 📫 How to reach me growdu@gmail.com
 - 📫 visit my [blog]([http://growdu.cn/) or [blog](https://growdu.github.io/) or [blog]( https://growdu.github.io/growdu.io/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=growdu&show_icons=true&theme=radical)
+![GitHub Card](https://githubcard.com/growdu.svg)
 
 <!---
 growdu/growdu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
