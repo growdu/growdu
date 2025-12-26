@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <img
-  src="https://green-wall.leoku.dev/api/og/share/[growdu]"
+  src="https://green-wall.leoku.dev/api/og/share/growdu"
   alt="My contributions"
 />
