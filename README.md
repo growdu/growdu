@@ -6,3 +6,5 @@
 - 📫 visit my [blog](https://growdu.github.io/blog/#) 
 
 ![GitHub Card](https://githubcard.com/growdu.svg)
+
+[![My GitFut card](https://gitfut.com/growdu.png)](https://gitfut.com/growdu)
