@@ -4,5 +4,3 @@
 - 💞️ I’m looking to collaborate on user protocol stack, distribution system，ebpf，linux-kernel.
 - 📫 How to reach me growdu@gmail.com
 - 📫 visit my [blog](https://growdu.github.io/blog/#) 
-
-![GitHub Card](https://githubcard.com/growdu.svg)
